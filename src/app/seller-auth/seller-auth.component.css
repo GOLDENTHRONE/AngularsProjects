@@ -1,0 +1,53 @@
+.signup{
+    
+    /* background-image:url("https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7JBRI34WRRP3HABELJK7Y66QEM.jpg"); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 80px;
+    color: blue;
+    margin-left: 350px;
+    margin-top: 4%;
+    /* border-radius: 2%; */
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    /* box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px; */
+    
+}
+.signup h1{
+    border:1px solid blue;
+    text-align: center;
+    margin-left: 5px;
+    width:404px;
+    border-bottom: 0;
+    padding: 2%;
+    border-radius: 4%;
+    
+}
+.imagess
+{
+    background-image:url("https://media.istockphoto.com/id/959093486/vector/blue-abstract-gradient-mesh-background.jpg?s=612x612&w=0&k=20&c=c6lozNEcfMBlPlZazHJiy4NnviEGkAPPgubKC-9GowI=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 2%;
+    width:380px;
+    height:230px;
+    margin-top: -3%;
+    padding: 4%;
+    flex-direction: column;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    opacity: 0.8;
+}
+.form-input
+{
+    width:250px;
+    align-items: center;
+    margin-left:-25% ;
+
+}
+.form-button
+{
+    width:260px;
+    align-items: center;
+    margin-left:-25% ;
+}
